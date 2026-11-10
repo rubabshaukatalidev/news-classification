@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# trained artefacts (regenerate with `python -m training.train`)
+models/*.joblib
+models/metrics.json
+!models/.gitkeep
+
+# large / licensed external datasets
+data/external/
