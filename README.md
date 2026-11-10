@@ -1,4 +1,4 @@
-# 📰 Urdu News Classifier
+﻿# 📰 Urdu News Classifier
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110%2B-009688.svg)](https://fastapi.tiangolo.com/)
@@ -25,8 +25,8 @@ Code for Intelligence AI Hackathon, challenge 4.3 (Digital Media: Urdu News Topi
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/urdu-news-classifier.git
-cd urdu-news-classifier
+git clone https://github.com/rubabshaukatalidev/news-classification.git
+cd news-classification
 
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
@@ -142,3 +142,4 @@ Code for Intelligence AI Hackathon** proposal.
 ## License
 
 [MIT](LICENSE)
+
