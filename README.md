@@ -66,8 +66,8 @@ curl -X POST http://localhost:8000/api/classify \
   "label": "sports",
   "label_ur": "کھیل",
   "label_en": "Sports",
-  "confidence": 0.41,
-  "scores": [{"label": "sports", "label_ur": "کھیل", "label_en": "Sports", "score": 0.41}, "..."]
+  "confidence": 0.9395,
+  "scores": [{"label": "sports", "label_ur": "کھیل", "label_en": "Sports", "score": 0.9395}, "..."]
 }
 ```
 
